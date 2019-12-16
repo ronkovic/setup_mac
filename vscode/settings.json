@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "'D2Coding for Powerline',Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": true,
+    "editor.renderIndentGuides": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.suggest.shareSuggestSelections": true,
+    "editor.suggestSelection": "first",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "wordWrapColumn",
+    "guides.enabled": false,
+    "terminal.integrated.fontFamily": "'D2Coding for Powerline'",
+    "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme"
+}
